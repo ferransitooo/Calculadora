@@ -1,5 +1,5 @@
 #Calculadora de Ferran
-#Sophie <3
+#Alex gay
 
 #Importar:
 import math
